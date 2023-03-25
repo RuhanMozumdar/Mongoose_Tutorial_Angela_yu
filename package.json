@@ -1,0 +1,14 @@
+{
+  "name": "mongoose_tutorial_angela-yu",
+  "version": "1.0.0",
+  "description": "This module is for mongoose tutorial by Angela Yu",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ruhan Mozumdar",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^7.0.2"
+  }
+}
